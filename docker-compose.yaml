@@ -1,0 +1,8 @@
+services:
+  qli-client:
+    image: ghcr.io/blockblitz/qli-client:latest
+    restart: unless-stopped
+    environment: 
+      THREAD_COUNT: my-thread-count 
+      ACCESS_TOKEN: my-access-token 
+      WORKER_NAME: my-worker-name
