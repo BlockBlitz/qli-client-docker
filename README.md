@@ -1,5 +1,7 @@
 # QLI-Client Docker
 
+***Maintinance of this container has been moved to the [BlockBlitz Miners-Docker](https://github.com/BlockBlitz/miners-docker) Repo. This repo will be deleted on or around May 14th 2024.***
+
 This Dockerfile and run script are all you need to run QLI-Client for CPU only mining. For alternative containers, see the [Qli-Cuda](https://github.com/BlockBlitz/qli-cuda-docker) image for Nvidia GPU mining or [Qli-Zluda](https://github.com/BlockBlitz/qli-zluda-docker) image for AMD GPU mining. 
 
 ***This project is not affiliated with [Qubic](http://discord.gg/qubic) or [Qubic.li](https://qubic.li/). Please report any bugs related to the docker container here and miner specific bugs to the respective miner owners.***
